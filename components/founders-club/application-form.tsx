@@ -104,7 +104,7 @@ export function ApplicationForm() {
       </label>
 
       <Button type="submit" size="lg" className="w-full sm:w-auto">
-        Submit via WhatsApp
+        Submit
         <ArrowUpRight className="ml-2 h-5 w-5" />
       </Button>
       <p className="text-sm text-gray-500">
